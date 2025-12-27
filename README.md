@@ -1,2 +1,6 @@
 # ProjetTIC2025
-Le projet TIC USTHB SIGL 2025
+Groupe ID2:
+- Abbassi Abdeslam
+- Meddour Rayane
+- Ferhat Omar
+- Aouameur Ishak
